@@ -1,0 +1,7 @@
+language: csharp
+mono: none
+dotnet: 2.1.502
+solution: Web_API_Entity_Framework_Sample.sln
+script:
+  - dotnet restore
+  - dotnet test
