@@ -1,5 +1,7 @@
 # .NET Core Web API Entity Framework Sample
 
+![travis build result](https://travis-ci.com/Iukekini/.NET-Core-Web-API-Entity-Framework-Sample.svg?branch=master)
+
 A example project of a .NET core web api. This API is setup to test the controller using Dependency injection. Unity Containers were used to handle this. 
 
 The UI is handle by Swashbuckler / swagger. I like this interface as it is an easy way to show other devs what's going on. 
