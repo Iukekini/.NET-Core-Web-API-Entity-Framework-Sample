@@ -1,6 +1,6 @@
 # .NET Core Web API Entity Framework Sample
 
-[![travis build result](https://travis-ci.com/Iukekini/.NET-Core-Web-API-Entity-Framework-Sample.svg?branch=master)](https://travis-ci.com/Iukekini/.NET-Core-Web-API-Entity-Framework-Sample.svg?branch=master)
+[![travis build result](https://travis-ci.com/Iukekini/.NET-Core-Web-API-Entity-Framework-Sample.svg?branch=master)](https://travis-ci.com/Iukekini/.NET-Core-Web-API-Entity-Framework-Sample)
 
 A example project of a .NET core web api. This API is setup to test the controller using Dependency injection. Unity Containers were used to handle this. 
 
